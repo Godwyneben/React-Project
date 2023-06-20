@@ -1,8 +1,13 @@
+import { useState } from "react"
+
 export default function TripLists() {
+    const [trips, setTrips] = useState([])
+
+    console.log(trips)
 
     fetch('http://localhost:3000/trips')
     .then(response => response.json())
-    .then(json => console.log(json))
+    .then(json => setTrips(json))
 
 
   return (
