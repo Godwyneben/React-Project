@@ -7,13 +7,6 @@
             "loc": "europe"
         },
         {
-            "title": "3 Night Stay in Tokyo",
-            "price": "$450",
-            "id": "2",
-            "loc": "europe"
-
-        },
-        {
             "title": "5 Night Stay in Bali",
             "price": "$600",
             "id": "3",
@@ -34,10 +27,10 @@
 
         },
         {
-            "title": "4 Night Stay in Azerbaijan",
+            "title": "4 Night Stay Bangkok",
             "price": "$800",
             "id": "6",
-            "loc": "europe"
+            "loc": "asia"
         },
         {
             "title": "4 Night Stay in Beijing",
