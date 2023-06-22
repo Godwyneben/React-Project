@@ -4,7 +4,7 @@ import TripLists from './Components/TripLists';
 export default function App() {
   return (
     <div className='App'>
-        <TripLists />
+      <TripLists />
     </div>
   )
 }
