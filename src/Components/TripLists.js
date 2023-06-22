@@ -1,9 +1,11 @@
--import React from 'react'
-
 export default function TripLists() {
-  return (
-    <div>
-      <h2>Trip List</h2>
-    </div>
-  )
+
+    fetch('  http://localhost:3000/trips')
+    .then(reponse => Response.json)
+    .then(json => console.log(json))
+    return (
+        <div>
+        <h2>Trip List</h2>
+        </div>
+    )
 }
