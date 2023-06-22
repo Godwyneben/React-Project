@@ -3,32 +3,41 @@
         {
             "title": "2 Night Stay in Venice",
             "price": "$200",
-            "id": "1"
+            "id": "1",
+            "loc": "europe"
         },
         {
             "title": "3 Night Stay in Tokyo",
             "price": "$450",
-            "id": "2"
+            "id": "2",
+            "loc": "europe"
+
         },
         {
             "title": "5 Night Stay in Bali",
             "price": "$600",
-            "id": "3"
+            "id": "3",
+            "loc": "asia"
+
         },
         {
             "title": "2 Night Stay in Istanbul",
             "price": "$250",
-            "id": "4"
+            "id": "4",
+            "loc": "europe"
         },
         {
             "title": "6 Night Stay in Paris",
             "price": "$1200",
-            "id": "5"
+            "id": "5",
+            "loc": "europe"
+
         },
         {
             "title": "4 Night Stay in Azerbaijan",
             "price": "$800",
-            "id": "6"
+            "id": "6",
+            "loc": "europe"
         }
     ]
 }
